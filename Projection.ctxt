@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Projection
+comment0.text=\r\n\r\n\ @author\ htrefftz\r\n
+comment1.params=
+comment1.target=Projection()
+comment2.params=d
+comment2.target=Projection(double)
+numComments=3
